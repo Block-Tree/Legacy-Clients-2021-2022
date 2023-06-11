@@ -1,0 +1,36 @@
+base
+rebel
+promo
+
+grass
+fire
+water
+lightening
+psychic
+fighting
+dark
+metal
+colourless
+
+A
+B
+C
+D
+E
+F
+H
+
+
+A anna
+B betty
+C caroline
+D debbie
+E emma
+F Faye
+G Georgina
+H Helen 
+Melon
+Fun baloon 1,2,3,4
+Total recall
+Stick A
+Stick F
