@@ -1,0 +1,3 @@
+<?php
+$api_key = 'TE2RFRYJGA1Q5IRS3NPG42E5SV43BN69M6';
+?>
