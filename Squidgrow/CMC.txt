@@ -1,0 +1,51 @@
+
+Project Name: MoneyHeist
+Owner: LATINO
+Symbol: HEIST
+Official Email: moneyheistcrypt@gmail.com
+Project Launch Date: Jun-23-2022 
+Contract's creation Link: https://bscscan.com/tx/0xd428bc34249d32b6fcc343deac35edf8f6cfc57e811e6e4196ca0b07d638f5b5
+Liquidity Lock Link: https://bscscan.com/tx/0xc0a7a4776c99d489c2e9d141ed78418f3d6724379e8fed19acdb0af27801da0e
+Project's Tags: Gambling, Media, Entertainment, Memes, Dapp, DAO
+
+One liner: 
+A crypto project inspired by the new Money Heist Korea TV series.
+
+Detailed description: 
+MoneyHeist is a token based off the new popular TV show of the same name but not affiliated with it in any way.
+
+Just like the television show, there is a “heist” involved with the MoneyHeist token. 1% of all transactions are being stored in “The Vault.” Based on certain stipulations like holding the token and not selling, you will be eligible to win this heist. Each game lasts a certain amount of days with the first taking place on Saturday June 25th. 
+
+HEIST allows token holders to maximize their potential profitability by participating in the heist or speculating on the coin’s price. With the upcoming DAO and Sniper tools
+
+Platform – BEP20 token 
+
+Team / Backers / Investors – 
+ALAN ZAMBRANO CEO/MARKETER,  tg:@LATINGKING19, linkedin: https://www.linkedin.com/in/alan-zambrano-27a5a4243/
+"Hat Monke" tg:@hatmonke DEV
+Adam Hashian tg: @BigHashDaddy COMMUNITY MANAGER/MARKETING, linkedin: https://www.linkedin.com/in/adam-hashian-457561165
+LUIS EMILIO DE LA ROSA CO-DEV/MOD, tg @ledlrr, LinkedIn https://www.linkedin.com/in/ledlrr-profile/
+
+
+The team includes specialists in all areas who have been working together for over 6 months on multiple different projects. The contract and contract defense is “Hat Monke.” The lead marketer is Alan“Latino”Zambrano, Memes are being produced by “The Meme Dream Team.” All community manage is doing by prolific crypto writer Adam “Big Daddy” Hashian. Many influencers and crypto luminaries are supporting the token. It has already been called by over a dozen different callers in the space. Our investors are international, with communities developing in China, Korea, and the English speaking community which includes North and South Americans as well as Europeans, Asians, Australians, and Africans.
+
+Traction - Country of Origin – The team of MoneyHeist is truly international. Critical and Founding members from USA, Switzerland, Mexico, Ecuador, Brazil, Canada, Poland, Germany, Italy, and many other countries. There are men and women on the team alike, All working together on a common goal!
+
+Link to Logo - https://i.imgur.com/VBzYhjV.png
+
+Website: http://moneyheistcrypto.net/
+Contract Address: 0x223963cb59b1b0a0345365958146fd44cde2b7d1
+Explorer Link: https://bscscan.com/address/0x223963cb59b1b0a0345365958146fd44cde2b7d1
+Github Link: https://github.com/MoneyHeistTokenBSC/MoneyHeistBSC
+Whitepaper link: 
+https://drive.google.com/file/d/1-mumERLsjS8gjxpTnC6TXVhbz6DJDn21/view?usp=drivesdk
+Bitcointalk: 
+Medium: 
+Twitter: https://twitter.com/MoneyHeistCrypt
+Reddit: 
+Facebook: 
+Telegram: https://t.me/MoneyHeistCoin
+Discord: https://discord.gg/SKn7RfWVZ9
+Circulating Supply: 1,000,000,000,000
+Max Supply: 1,000,000,000,000
+Link(s) to Exchanges: https://pancakeswap.finance/swap?outputCurrency=0x223963cb59B1B0a0345365958146FD44cde2B7D1
